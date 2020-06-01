@@ -35,11 +35,11 @@ public class IntegradorCorreo {
 
     private static final String SERVIDOR_SMTP = "smtp.office365.com";
     private static final int PORT_SERVIDOR_SMTP = 587;
-    //private static final String CONTA_PADRAO = "diego.mateus@javeriana.edu.co";
-    private static final String password = "mateuscruz1994";
+    //private static final String CONTA_PADRAO = "";
+    private static final String password = "";
 
-    //private final String from = "diego.mateus@javeriana.edu.co";
-    //private final String to = "adriangarcia@javeriana.edu.co";
+    //private final String from = "";
+    //private final String to = "";
 
     //private final String subject = "Prueba desde Java 2";
     //private final String messageContent = "Mi primer correo desde Java 2";
